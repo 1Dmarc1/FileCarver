@@ -1,3 +1,0 @@
-/home/daniel/CLionProjects/FileCarver/cmake-build-debug/CMakeFiles/FileCarver.dir
-/home/daniel/CLionProjects/FileCarver/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/daniel/CLionProjects/FileCarver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
